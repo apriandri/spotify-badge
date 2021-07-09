@@ -45,6 +45,8 @@ curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -H "Authorizat
 
 * Deploy!
 
+
+
 ## Add to Your Readme
 
 ```md
@@ -52,3 +54,8 @@ curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -H "Authorizat
 
 [<img src="https://<YOUR VERCEL SERVER URL>/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/<YOUR SPOTIFY USER ID>)
 ```
+
+Regards
+
+
+APRI ANDRI
