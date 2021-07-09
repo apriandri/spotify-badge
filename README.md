@@ -1,2 +1,2 @@
-[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/codestackr)
+[![Spotify](https://spotify-badge-python-flask-8dxno1ysl-apriandri.vercel.app/)](https://open.spotify.com/user/apriandri)
 
